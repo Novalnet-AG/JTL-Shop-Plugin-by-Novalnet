@@ -2,13 +2,11 @@
 
 The JTL shop payment plugin by Novalnet enables secure integration of payments and payment services for all JTL shops. Novalnet payment plugin for JTL shop helps merchants to automate payment processing from checkout till collection.
 
-
 ## Integration Requirements
 
 The module is available for the 3.20 - 4.06  versions in the following languages: EN & DE and requires PHP versions 5.6 and higher. 
 Novalnet merchant account is required for processing all international and local payments in JTL shop. You can get yours here: <a href= "https://www.novalnet.de/kontakt"> https://www.novalnet.de/kontakt/sales </a>
    
-  
 ## Key Features
 
 * Easy configuration of all payment methods (local & international)
@@ -59,16 +57,16 @@ Follow these steps for JTL shop Payment Integration by Novalnet:
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
 ## Documentation & Support
+For more information about the JTL shop 4 Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
-If you have any inquiries, please contact one of the following departments:
-
-### Technical support 
-technic@novalnet.de <br>
-+49 89 9230683-19
-
-### Sales team 
-sales@novalnet.de <br>
-+49 89 9230683-20
+Novalnet AG<br>
+Zahlungsinstitut (ZAG)<br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
+Deutschland<br>
+E-mail: sales@novalnet.de<br>
+Tel: +49 89 9230683-20<br>
+Web: www.novalnet.de
 
 ## Who is Novalnet?
  
